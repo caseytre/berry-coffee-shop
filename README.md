@@ -1,7 +1,19 @@
-# Casey Trejo — Personal Website
+# Berry Coffee Shop
 
-A simple personal introduction website built with semantic HTML and CSS.
+A two-page website for Berry Coffee Shop, a fictional local coffee shop. Built with HTML and CSS as part of a web development course final project.
 
-The purpose of this site is to introduce me as a student, share my goals for my web development coursework, and highlight a few personal interests.
+**Live site:** [https://caseytre.github.io/berry-coffee-shop](https://caseytre.github.io/berry-coffee-shop)
 
-**Live site:** [https://caseytre.github.io](https://caseytre.github.io)
+**Documentation:** [docs/](docs/)
+
+## Pages
+
+- `index.html`
+- `about.html`
+
+## Project Files
+
+- `style.css`
+- `docs/scope.md`
+- `docs/plan.md`
+- `docs/retrospective.md`
